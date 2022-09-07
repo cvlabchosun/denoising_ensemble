@@ -1,4 +1,4 @@
-# Title: Denoising single images by feature ensemble revisited
+# Paper: Denoising single images by feature ensemble revisited
 # Architecture: 
 We have provided our architecture called Network.py.
 # Experimental results: 
